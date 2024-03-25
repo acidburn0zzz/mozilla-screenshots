@@ -19,7 +19,7 @@
     "envc": "2.5.0",
     "escape-html": "1.0.3",
     "eslint-plugin-no-unsanitized": "2.0.1",
-    "express": "4.15.3",
+    "express": "4.19.2",
     "fluent": "0.4.1",
     "fluent-intl-polyfill": "0.1.0",
     "fluent-langneg": "0.1.0",
